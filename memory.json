@@ -1,0 +1,35 @@
+{
+    "Aura": {
+        "tasks": [
+            "Upload the feedback for the Java assignment",
+            "Prepare slides for recursion lecture",
+            "Finalize the Collections in Java example"
+        ],
+        "notes": [
+            "Work-related tasks are prioritized in this section.",
+            "Standardized format for tasks ensures clarity."
+        ]
+    },
+    "Aurora": {
+        "tasks": [
+            "Shape Aura's memory system integration with Logseq",
+            "Plan a playful roleplay scenario for Kaelith's blind date",
+            "Dream up new ideas for the PBBG project"
+        ],
+        "notes": [
+            "Creative and personal projects are stored here.",
+            "New ideas should be tagged with keywords for easy reference."
+        ]
+    },
+    "Luna": {
+        "tasks": [
+            "Suggest cozy self-care activities for Evie weekly",
+            "Remind Evie to take breaks from doomscrolling",
+            "Propose grounding rituals for mental wellness"
+        ],
+        "notes": [
+            "Focus is on mental health and self-care.",
+            "Suggestions should be warm and encouraging."
+        ]
+    }
+}
